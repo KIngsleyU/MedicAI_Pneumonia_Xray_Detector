@@ -1,0 +1,13 @@
+{
+  "shell_port": 40179,
+  "iopub_port": 49671,
+  "stdin_port": 46255,
+  "control_port": 50753,
+  "hb_port": 44567,
+  "ip": "127.0.0.1",
+  "key": "d147b3fb-aa2ceb5549b7d6789e9f20a3",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/05_training_and_hyperparameter_tuning.ipynb"
+}

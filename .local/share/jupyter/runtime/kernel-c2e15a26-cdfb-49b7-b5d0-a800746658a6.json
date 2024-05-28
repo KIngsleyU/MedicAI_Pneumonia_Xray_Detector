@@ -1,0 +1,13 @@
+{
+  "shell_port": 35581,
+  "iopub_port": 41925,
+  "stdin_port": 41359,
+  "control_port": 58631,
+  "hb_port": 35671,
+  "ip": "127.0.0.1",
+  "key": "a2e32d8c-1a588d34769f32935ff9dc05",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/eda_preprocessing_MedicalAI.ipynb"
+}
